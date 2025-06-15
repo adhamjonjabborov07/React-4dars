@@ -484,12 +484,13 @@
 }
 
 .social-icons a:hover {
-  background-color: #bbf7d0;
+  background-color: rgba(57, 219, 74, 1);
+  color: white;
 }
 
 .footer-bottom {
   text-align: center;
   font-size: 13px;
-  margin-top: 40px;
+  margin-top: 45px;
   color: #777;
 }
